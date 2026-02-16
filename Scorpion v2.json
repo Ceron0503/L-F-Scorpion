@@ -272,7 +272,7 @@
     {
       "item": "image_toolbar_name",
       "value": "image_toolbar",
-      "url": "https://raw.githubusercontent.com/kourai1/LnF/refs/heads/main/logo-scorpion.png",
+      "url": "https://raw.githubusercontent.com/Ceron0503/L-F-Scorpion/refs/heads/main/Banner_SCORPION.PNG",
       "enable": true
     },
     {
@@ -309,4 +309,5 @@
       "enable": false
     }
   ]
+
 }
